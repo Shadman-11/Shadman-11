@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Shadman 👋
 
-<!--
-**Shadman-11/Shadman-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student at Khulna University of Engineering and Technology
 
-Here are some ideas to get you started:
+💻 Currently Learning
+- C++
+- Object-Oriented Programming (OOP)
+- Data Structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📚 Interests
+- Software Development
+- Problem Solving
+- Competitive Programming
+
+📷 Hobby
+- Photography
+
+🌱 Currently working on improving my programming skills.
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/md-shadman-sami-2a5255413/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbYv88oNfTtS9TpBumt5q2g%3D%3D
