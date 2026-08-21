@@ -6,6 +6,7 @@
 - C++
 - Object-Oriented Programming (OOP)
 - Data Structures
+- Machine Learning
 
 
 📚 Interests
